@@ -33,4 +33,4 @@ This project is a simple REST API built using Flask to manage user data. It allo
 3. Open Postman or use `curl` to test the endpoints.
 
 ## Author
-GOKULAKANNAN S C
+Dhivakar M
